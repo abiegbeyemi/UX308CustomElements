@@ -1,4 +1,4 @@
 # UX308CustomElements
 custom elements demo
 
-[Edit here](https://div-pwa.dev/~/gh/abiegbeyemi/UX308CustomElements)
+[Edit here](https://diy-pwa.dev/~/gh/abiegbeyemi/UX308CustomElements)
